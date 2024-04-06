@@ -400,6 +400,12 @@
 .p-auto{
   padding: auto;
 }
+.px-auto{
+  padding: 0 auto;
+}
+.py-auto{
+  padding: auto 0;
+}
 .p-1{
   padding: var(--spacing-1);
 }
@@ -618,3 +624,110 @@
 .pt-10{
   padding-bottom:var(--spacing-10);
 }
+/*margin*/
+.m-auto{
+  padding: auto;
+}
+.mx-auto{
+  padding: 0 auto;
+}
+.my-auto{
+  padding: auto 0;
+}
+
+.m-1{
+  margin: var(--spacing-1);
+}
+.m-2{
+  margin: var(--spacing-2);
+}
+.m-3{
+  margin: var(--spacing-3);
+}
+.m-4{
+  margin: var(--spacing-4);
+}
+.m-5{
+  margin: var(--spacing-5);
+}
+.m-6{
+  margin: var(--spacing-6);
+}
+.m-7{
+  margin: var(--spacing-7);
+}
+.m-8{
+  margin: var(--spacing-8);
+}
+.m-9{
+  margin: var(--spacing-9);
+}
+.m-10{
+  margin: var(--spacing-10);
+}
+
+/* margin left and right */
+.mx-1{
+  margin:0 var(--spacing-1);
+}
+.mx-2{
+  margin:0 var(--spacing-2);
+}
+.mx-3{
+  margin:0 var(--spacing-3);
+}
+.mx-4{
+  margin:0 var(--spacing-4);
+}
+.mx-5{
+  margin:0 var(--spacing-5);
+}
+.mx-6{
+  margin:0 var(--spacing-6);
+}
+.mx-7{
+  margin:0 var(--spacing-7);
+}
+.mx-8{
+  margin:0 var(--spacing-8);
+}
+.mx-9{
+  margin:0 var(--spacing-9);
+}
+.mx-10{
+  margin:0 var(--spacing-10);
+}
+
+/*margin top and bottom*/
+.my-1{
+  margin:var(--spacing-1) 0;
+}
+.my-2{
+  margin: var(--spacing-2) 0;
+}
+.my-3{
+  margin:var(--spacing-3) 0;
+}
+.my-4{
+  margin: var(--spacing-4) 0;
+}
+.my-5{
+  margin: var(--spacing-5) 0;
+}
+.my-6{
+  margin: var(--spacing-6) 0;
+}
+.my-7{
+  margin: var(--spacing-7) 0;
+}
+.my-8{
+  margin:var(--spacing-8) 0;
+}
+.my-9{
+  margin:var(--spacing-9) 0;
+}
+.my-10{
+  margin:var(--spacing-10) 0;
+}
+
+
