@@ -556,3 +556,34 @@
 .pt-10{
   padding-top:var(--spacing-10);
 }
+/* Padding right*/
+.pt-1{
+  padding-right:var(--spacing-1);
+}
+.pt-2{
+  padding-right: var(--spacing-2);
+}
+.pt-3{
+  padding-right:var(--spacing-3);
+}
+.pt-4{
+  padding-right: var(--spacing-4);
+}
+.pt-5{
+  padding-right: var(--spacing-5);
+}
+.pt-6{
+  padding-right: var(--spacing-6);
+}
+.pt-7{
+  padding-right: var(--spacing-7);
+}
+.pt-8{
+  padding-right:var(--spacing-8);
+}
+.pt-9{
+  padding-right:var(--spacing-9);
+}
+.pt-10{
+  padding-right:var(--spacing-10);
+}
